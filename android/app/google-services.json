@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "262987790788",
+    "project_id": "lamsa-8a8c7",
+    "storage_bucket": "lamsa-8a8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262987790788:android:2098feef539ce66fb14c91",
+        "android_client_info": {
+          "package_name": "com.lamsa.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262987790788-p0h40d0k4luvgiun40pnako74n0n16rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lamsa.provider",
+            "certificate_hash": "032dd9c36caefb65fd106f35967ad9cafdb45e00"
+          }
+        },
+        {
+          "client_id": "262987790788-vl0of75bllp4lokb43ipfvb4lfb67o0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqkPasLL3aqd-AdfZX-DRf4Wv7F63paEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262987790788-vl0of75bllp4lokb43ipfvb4lfb67o0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262987790788-cg6injbala1drkshnd0d5menjod02587.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lamsa.provider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262987790788:android:e99b2c793e980ad4b14c91",
+        "android_client_info": {
+          "package_name": "com.lamsa.serviceman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262987790788-r2et2326hscg7g98ajkvongr2phkejch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lamsa.serviceman",
+            "certificate_hash": "032dd9c36caefb65fd106f35967ad9cafdb45e00"
+          }
+        },
+        {
+          "client_id": "262987790788-vl0of75bllp4lokb43ipfvb4lfb67o0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqkPasLL3aqd-AdfZX-DRf4Wv7F63paEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262987790788-vl0of75bllp4lokb43ipfvb4lfb67o0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262987790788-cg6injbala1drkshnd0d5menjod02587.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lamsa.provider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262987790788:android:470d1e367e11049bb14c91",
+        "android_client_info": {
+          "package_name": "com.lamsa.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262987790788-33u76u5j8p34big3o84jd01g4nns3q8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lamsa.user",
+            "certificate_hash": "032dd9c36caefb65fd106f35967ad9cafdb45e00"
+          }
+        },
+        {
+          "client_id": "262987790788-vl0of75bllp4lokb43ipfvb4lfb67o0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqkPasLL3aqd-AdfZX-DRf4Wv7F63paEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262987790788-vl0of75bllp4lokb43ipfvb4lfb67o0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262987790788-cg6injbala1drkshnd0d5menjod02587.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lamsa.provider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
