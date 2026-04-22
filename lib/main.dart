@@ -1,3 +1,4 @@
+import 'dart:io' as io;
 import 'package:get/get.dart';
 import 'utils/core_export.dart';
 import 'helper/get_di.dart' as di;
@@ -177,6 +178,6 @@ class _MyAppState extends State<MyApp> {
 class MyHttpOverrides extends HttpOverrides {
   @override
   HttpClient createHttpClient(SecurityContext? context) {
-    return super.createHttpClient(context)..badCertificateCallback = (X509Certificate cert, String host, int port) => true;
+    return super.createHttpClient(context)..badCertificateCallback = (io.X509Certificate cert, String host, int port) => true;
   }
 }
