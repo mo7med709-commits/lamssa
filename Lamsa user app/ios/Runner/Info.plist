@@ -40,7 +40,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<string>30</string>
 	<key>FacebookAppID</key>
 	<string>637072917840079</string>
 	<key>FacebookClientToken</key>
