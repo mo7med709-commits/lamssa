@@ -1,6 +1,6 @@
-name: لسمات السيارات
+name: lamsat_cars
 description: A new Flutter application.
-publish_to: 'none' #
+publish_to: 'none'
 version: 2.0.4+27
 
 environment:
@@ -80,8 +80,6 @@ dependencies:
   cached_network_image_platform_interface:
   drift: ^2.19.0
   drift_flutter: ^0.1.0
-
-
 
 dev_dependencies:
   flutter_test:
